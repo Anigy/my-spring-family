@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrder" value="java;javax;lombok;org;com;" />
+        <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../approval/company-config-files/eclipse.formatter.hue.xml" />
+        <option name="selectedJavaProfile" value="exlipse.formatter.hue" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>

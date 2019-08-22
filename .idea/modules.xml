@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my-spring-family.iml" filepath="$PROJECT_DIR$/my-spring-family.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring01-datasource-demo/spring01-datasource-demo.iml" filepath="$PROJECT_DIR$/spring01-datasource-demo/spring01-datasource-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring02-multi-datasource-demo/spring02-multi-datasource-demo.iml" filepath="$PROJECT_DIR$/spring02-multi-datasource-demo/spring02-multi-datasource-demo.iml" />
+    </modules>
+  </component>
+</project>
