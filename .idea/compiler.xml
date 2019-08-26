@@ -11,18 +11,28 @@
         <module name="spring01-datasource-demo" />
         <module name="spring02-multi-datasource-demo" />
         <module name="spring03-durid-demo" />
+        <module name="spring04-programmatic-transaction-demo" />
+        <module name="spring05-declarative-transaction-demo" />
+        <module name="spring06-simple-jdbc-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="spring01-datasource-demo" target="1.8" />
       <module name="spring02-multi-datasource-demo" target="1.8" />
       <module name="spring03-durid-demo" target="1.8" />
+      <module name="spring04-programmatic-transaction-demo" target="1.8" />
+      <module name="spring05-declarative-transaction-demo" target="1.8" />
+      <module name="spring06-simple-jdbc-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring01-datasource-demo" options="-parameters" />
       <module name="spring02-multi-datasource-demo" options="-parameters" />
+      <module name="spring03-durid-demo" options="-parameters" />
+      <module name="spring04-programmatic-transaction-demo" options="-parameters" />
+      <module name="spring05-declarative-transaction-demo" options="-parameters" />
+      <module name="spring06-simple-jdbc-demo" options="-parameters" />
     </option>
   </component>
 </project>

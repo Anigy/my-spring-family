@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/spring02-multi-datasource-demo/pom.xml" />
         <option value="$PROJECT_DIR$/spring01-datasource-demo/pom.xml" />
         <option value="$PROJECT_DIR$/spring03-durid-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring04-programmatic-transaction-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring05-declarative-transaction-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring06-simple-jdbc-demo/pom.xml" />
       </list>
     </option>
   </component>
