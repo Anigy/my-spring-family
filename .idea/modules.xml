@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/my-spring-family.iml" filepath="$PROJECT_DIR$/my-spring-family.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring01-datasource-demo/spring01-datasource-demo.iml" filepath="$PROJECT_DIR$/spring01-datasource-demo/spring01-datasource-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring02-multi-datasource-demo/spring02-multi-datasource-demo.iml" filepath="$PROJECT_DIR$/spring02-multi-datasource-demo/spring02-multi-datasource-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring03-durid-demo/spring03-durid-demo.iml" filepath="$PROJECT_DIR$/spring03-durid-demo/spring03-durid-demo.iml" />
     </modules>
   </component>
 </project>

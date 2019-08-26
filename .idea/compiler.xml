@@ -10,11 +10,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring01-datasource-demo" />
         <module name="spring02-multi-datasource-demo" />
+        <module name="spring03-durid-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="spring01-datasource-demo" target="1.8" />
       <module name="spring02-multi-datasource-demo" target="1.8" />
+      <module name="spring03-durid-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
