@@ -8,17 +8,17 @@
 		<version>2.1.7.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.anigy.data</groupId>
-	<artifactId>spring01-datasource-demo</artifactId>
+	<groupId>com.anigy</groupId>
+	<artifactId>spring06-simple-jdbc-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring01-datasource-demo</name>
+	<name>spring06-simple-jdbc-demo</name>
 	<description>Demo project for Spring Boot</description>
 
+	<properties>
+		<java.version>1.8</java.version>
+	</properties>
+
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-actuator</artifactId>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-jdbc</artifactId>
